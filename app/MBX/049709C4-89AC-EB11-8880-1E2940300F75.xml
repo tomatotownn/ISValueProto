@@ -1,0 +1,234 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="049709C4-89AC-EB11-8880-1E2940300F75" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="23">
+    <control controlID="C44E2990-17A7-EB11-8624-1E2940300F75" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>4294967295</color>
+    </control>
+    <control controlID="028599A5-DCAB-EB11-8218-1E2940300F75" controlTypeID="Shape" x="0" y="20" w="375" h="268" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8EFB4BE6-DCAB-EB11-8218-1E2940300F75" controlTypeID="Button" x="64" y="33" w="252" h="55" zOrder="2">
+      <color>4281571839</color>
+      <borderVisible>False</borderVisible>
+      <font family="Helvetica" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>-+Close+-</text>
+      <textColor>4294111986</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>10</radius>
+    </control>
+    <control controlID="42B3547B-DDAB-EB11-8218-1E2940300F75" controlTypeID="Shape" x="10" y="298" w="355" h="292" zOrder="3">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>24</radius>
+    </control>
+    <control controlID="C2FAE090-DDAB-EB11-8218-1E2940300F75" controlTypeID="Shape" x="0" y="600" w="375" h="67" zOrder="4">
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A266047-DFAB-EB11-8218-1E2940300F75" controlTypeID="Icon" x="85" y="608" w="58" h="58" zOrder="5">
+      <color>4286363377</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62669</iconCode>
+      </icon>
+      <URL>7D34168CB3374D39FEFCE9D0FCF04759.svg</URL>
+    </control>
+    <control controlID="4A2EA26C-DFAB-EB11-8218-1E2940300F75" controlTypeID="Icon" x="22" y="615" w="42" h="42" zOrder="6">
+      <color>4286363377</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61976</iconCode>
+      </icon>
+      <URL>35EC0CEF289D155B96D1500409688C43.svg</URL>
+    </control>
+    <control controlID="8205C1B6-DFAB-EB11-8218-1E2940300F75" controlTypeID="Icon" x="323" y="38" w="43" h="43" zOrder="7">
+      <color>4289638062</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61632</iconCode>
+      </icon>
+      <URL>8EDB506E5DE1F9D52419F349984F097A.svg</URL>
+    </control>
+    <control controlID="10AF60CB-DFAB-EB11-8218-1E2940300F75" controlTypeID="Icon" x="10" y="39" w="44" h="44" zOrder="8">
+      <color>4289638062</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{8607FD9E-91AC-EB11-A5A8-1E2940300F75}" coords="(0,0,44,44)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="080EC49F-91AC-EB11-A5A8-1E2940300F75" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62356</iconCode>
+      </icon>
+      <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+    </control>
+    <control controlID="DA13F2DD-DFAB-EB11-8218-1E2940300F75" controlTypeID="Label" x="141" y="461" w="136" h="17" zOrder="9">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>content+goes+here+lol</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1C1B3C1D-8AAC-EB11-8880-1E2940300F75" controlTypeID="Label" x="114" y="98" w="147" h="24" zOrder="10">
+      <font family="Helvetica" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Tuesday+27%2F4%2F21</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="04E6226F-8AAC-EB11-8880-1E2940300F75" controlTypeID="Icon" x="76" y="98" w="24" h="24" zOrder="11">
+      <color>4289638062</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="6670D485-8AAC-EB11-8880-1E2940300F75" controlTypeID="Icon" x="274" y="98" w="25" h="25" zOrder="12">
+      <color>4289638062</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="16810EAE-8AAC-EB11-8880-1E2940300F75" controlTypeID="Line" x="70" y="133" w="239" h="1" zOrder="13">
+      <color>4289638062</color>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(120,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(239,0)</endPoint>
+    </control>
+    <control controlID="DC57265D-8BAC-EB11-8880-1E2940300F75" controlTypeID="Button" x="100" y="147" w="265" h="39" zOrder="14">
+      <color>4286363377</color>
+      <borderVisible>False</borderVisible>
+      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>12BUS6%3A+Business+Studies</text>
+      <textColor>4294111986</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="968402EE-8CAC-EB11-8880-1E2940300F75" controlTypeID="Label" x="10" y="156" w="81" h="20" zOrder="15">
+      <font family="Helvetica" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>8.30am+++++-</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BE86381F-8DAC-EB11-8880-1E2940300F75" controlTypeID="Button" x="100" y="193" w="265" h="39" zOrder="16">
+      <color>4286363377</color>
+      <borderVisible>False</borderVisible>
+      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>12ENG2%3A+Engineering+Studies</text>
+      <textColor>4294111986</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3088381F-8DAC-EB11-8880-1E2940300F75" controlTypeID="Label" x="8" y="203" w="82" h="20" zOrder="17">
+      <font family="Helvetica" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>12.00pm+++-</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="646BB828-8DAC-EB11-8880-1E2940300F75" controlTypeID="Button" x="100" y="239" w="265" h="39" zOrder="18">
+      <color>4286363377</color>
+      <borderVisible>False</borderVisible>
+      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>12MSA%3A+Mathematics+Advanced</text>
+      <textColor>4294111986</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EA6CB828-8DAC-EB11-8880-1E2940300F75" controlTypeID="Label" x="11" y="248" w="77" h="20" zOrder="19">
+      <font family="Helvetica" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>3.15pm++++-</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="906D855E-8EAC-EB11-A5A8-1E2940300F75" controlTypeID="AvatarEx2" x="307" y="609" w="50" h="50" zOrder="20">
+      <borderColor>4281545523</borderColor>
+      <borderVisible>False</borderVisible>
+      <avatarType>Profile</avatarType>
+      <avatarShapeStyle>asCircle</avatarShapeStyle>
+      <avatarBackgroundColor>4286363377</avatarBackgroundColor>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62168</iconCode>
+      </icon>
+      <URL>A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg</URL>
+    </control>
+    <control controlID="846F855E-8EAC-EB11-A5A8-1E2940300F75" controlTypeID="Icon" x="237" y="610" w="48" h="48" zOrder="21">
+      <color>4286363377</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62161</iconCode>
+      </icon>
+      <URL>524D9A41776CD1EF98956BB68F9875AC.svg</URL>
+    </control>
+    <control controlID="6070855E-8EAC-EB11-A5A8-1E2940300F75" controlTypeID="Icon" x="162" y="608" w="51" h="51" zOrder="22">
+      <color>4286363377</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62351</iconCode>
+      </icon>
+      <URL>00B95EF219967F400695DB20B0044ACF.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281571839</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>.AppleSystemUIFont</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
