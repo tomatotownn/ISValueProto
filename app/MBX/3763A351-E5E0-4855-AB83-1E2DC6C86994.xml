@@ -54,7 +54,7 @@
     </control>
     <control controlID="F0933FFB-0FB2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="168" y="535" w="178" h="20" zOrder="6">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-        <link targetPageID="C213D824-10B2-EB11-85F3-1E2940300F75" linkType="ltPageLink" isApplyIncludePage="False" title="Register">
+        <link targetPageID="0F9FB45F-4E3E-459B-AF38-4C88089E9057" linkType="ltPageLink" isApplyIncludePage="False" title="Register">
           <area shape="0" alt="" ID="{A25464A9-15B2-EB11-85F3-1E2940300F75}" coords="(0,0,178,20)"/>
         </link>
       </links>
@@ -70,7 +70,7 @@
       <color>4281637375</color>
       <borderVisible>False</borderVisible>
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-        <link targetPageID="4C27E08C-17A7-EB11-8624-1E2940300F75" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+        <link targetPageID="DCF55FE3-B273-4037-92B3-B0BA6ABBA038" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
           <area shape="0" alt="" ID="{98642B94-12B2-EB11-85F3-1E2940300F75}" coords="(0,0,121,39)"/>
         </link>
       </links>
