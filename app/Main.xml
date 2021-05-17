@@ -10,7 +10,7 @@
       <images>
         <image key="78270B2AC56C893519DB2E7B06329E4A.png"/>
       </images>
-      <page name="Login" ID="3763A351-E5E0-4855-AB83-1E2DC6C86994" expanded="False" code="8wRog2RvlR" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Login" ID="3763A351-E5E0-4855-AB83-1E2DC6C86994" expanded="False" code="eUO1mURrCb" thumbCode="eUO1mURrCb" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="78270B2AC56C893519DB2E7B06329E4A.png"/>
         </images>
@@ -24,7 +24,7 @@
         </images>
       </page>
     </page>
-    <page name="Home" ID="DCF55FE3-B273-4037-92B3-B0BA6ABBA038" expanded="True" code="9QyjDuDaFG" thumbCode="9QyjDuDaFG" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Home" ID="DCF55FE3-B273-4037-92B3-B0BA6ABBA038" expanded="True" code="SluS17lufm" thumbCode="9QyjDuDaFG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
         <image key="EA919EAC191693E6967579E4C7EED431.png"/>
@@ -121,7 +121,7 @@
         <image key="DED0E6A8242D8DE296EBCBE2FFA15EDA.svg"/>
       </images>
     </page>
-    <page name="Calendar" ID="72E89735-5747-4A5C-BADF-3B142AB46976" expanded="True" code="wL2UTgEjZN" thumbCode="wL2UTgEjZN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Calendar" ID="72E89735-5747-4A5C-BADF-3B142AB46976" expanded="True" code="wL2UTgEjZN" thumbCode="wL2UTgEjZN" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
         <image key="EA919EAC191693E6967579E4C7EED431.png"/>
