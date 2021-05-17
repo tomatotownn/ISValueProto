@@ -1,4 +1,4 @@
-﻿<mockup version="5.3" minAllowVersion="5.3" ID="C213D824-10B2-EB11-85F3-1E2940300F75" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0F9FB45F-4E3E-459B-AF38-4C88089E9057" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
   <controls controlCount="43">
     <control controlID="AA3C1D79-10B2-EB11-85F3-1E2940300F75" controlTypeID="Shape" x="34" y="349" w="308" h="61" zOrder="0">
       <color>4292077306</color>
@@ -26,7 +26,7 @@
           </events>
         </entry>
       </interactiveData>
-      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Email%0A</text>
       <textColor>4281571839</textColor>
       <textSize>24</textSize>
@@ -60,7 +60,7 @@
           </events>
         </entry>
       </interactiveData>
-      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>SSO+(Reccomended)%0A</text>
       <textColor>4281571839</textColor>
       <textSize>24</textSize>
@@ -94,7 +94,7 @@
           </events>
         </entry>
       </interactiveData>
-      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Microsoft%0A</text>
       <textColor>4281571839</textColor>
       <textSize>24</textSize>
@@ -105,7 +105,7 @@
     <control controlID="2E5E737D-10B2-EB11-85F3-1E2940300F75" controlTypeID="Shape" x="34" y="580" w="308" h="61" zOrder="3">
       <color>4292077306</color>
       <borderVisible>False</borderVisible>
-      <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Google%0A</text>
       <textColor>4281571839</textColor>
       <textSize>24</textSize>
@@ -140,13 +140,13 @@
           <groupChildrenDescriptors>
             <control controlID="1C188A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="Shape" x="22" y="37" w="333" h="610" zOrder="0">
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>24</radius>
             </control>
-            <control controlID="66198A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="63" w="40" h="20" zOrder="1">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="66198A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="63" w="40" h="19" zOrder="1">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Email</text>
               <textColor>4281571839</textColor>
               <textSize>16</textSize>
@@ -157,14 +157,14 @@
             <control controlID="6A1A8A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="TextInput" x="32" y="90" w="313" h="39" zOrder="2">
               <color>4292077306</color>
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="C81B8A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="151" w="77" h="20" zOrder="3">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="C81B8A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="151" w="77" h="19" zOrder="3">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Your+name</text>
               <textColor>4281571839</textColor>
               <textSize>16</textSize>
@@ -175,14 +175,14 @@
             <control controlID="301D8A86-11B2-EB11-85F3-1E2940300F75" controlTypeID="TextInput" x="32" y="178" w="313" h="39" zOrder="4">
               <color>4292077306</color>
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="82A5D104-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="239" w="81" h="20" zOrder="5">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="82A5D104-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="239" w="81" h="19" zOrder="5">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>You+are+a...</text>
               <textColor>4281571839</textColor>
               <textSize>16</textSize>
@@ -193,14 +193,14 @@
             <control controlID="B8A6D104-12B2-EB11-85F3-1E2940300F75" controlTypeID="TextInput" x="32" y="266" w="313" h="39" zOrder="6">
               <color>4292077306</color>
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="464D6B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="327" w="70" h="20" zOrder="7">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="464D6B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="327" w="70" h="19" zOrder="7">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Password</text>
               <textColor>4281571839</textColor>
               <textSize>16</textSize>
@@ -211,14 +211,14 @@
             <control controlID="7C4E6B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="TextInput" x="32" y="354" w="313" h="39" zOrder="8">
               <color>4292077306</color>
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="3A4F6B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="415" w="131" h="20" zOrder="9">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="3A4F6B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="415" w="131" h="19" zOrder="9">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Confirm+Password</text>
               <textColor>4281571839</textColor>
               <textSize>16</textSize>
@@ -229,14 +229,14 @@
             <control controlID="E44F6B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="TextInput" x="32" y="442" w="313" h="39" zOrder="10">
               <color>4292077306</color>
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="A2506B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="503" w="199" h="20" zOrder="11">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="A2506B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="38" y="503" w="199" h="19" zOrder="11">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Which+School+do+you+go+to%3F</text>
               <textColor>4281571839</textColor>
               <textSize>16</textSize>
@@ -247,7 +247,7 @@
             <control controlID="4C516B0E-12B2-EB11-85F3-1E2940300F75" controlTypeID="TextInput" x="32" y="530" w="313" h="39" zOrder="12">
               <color>4292077306</color>
               <borderVisible>False</borderVisible>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
@@ -261,8 +261,8 @@
               </icon>
               <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
             </control>
-            <control controlID="182C573A-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="44" y="276" w="55" h="20" zOrder="14">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="182C573A-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="44" y="276" w="55" h="19" zOrder="14">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Student</text>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
@@ -277,8 +277,8 @@
               </icon>
               <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
             </control>
-            <control controlID="BC87D96C-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="44" y="540" w="84" h="20" zOrder="16">
-              <font family="Helvetica" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="BC87D96C-12B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="44" y="540" w="84" h="19" zOrder="16">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Unspecified</text>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
@@ -293,7 +293,7 @@
                   <area shape="0" alt="" ID="{98642B94-12B2-EB11-85F3-1E2940300F75}" coords="(0,0,121,39)"/>
                 </link>
               </links>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>Close%0A</text>
               <textColor>4294967295</textColor>
               <textSize>18</textSize>
@@ -309,7 +309,7 @@
                   <area shape="0" alt="" ID="{B2AC3FF0-12B2-EB11-85F3-1E2940300F75}" coords="(0,0,121,39)"/>
                 </link>
               </links>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>Submit%0A</text>
               <textColor>4294967295</textColor>
               <textSize>18</textSize>
@@ -357,7 +357,7 @@
                   <area shape="0" alt="" ID="{98642B94-12B2-EB11-85F3-1E2940300F75}" coords="(0,0,121,39)"/>
                 </link>
               </links>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>Close%0A</text>
               <textColor>4294967295</textColor>
               <textSize>18</textSize>
@@ -405,7 +405,7 @@
                   <area shape="0" alt="" ID="{98642B94-12B2-EB11-85F3-1E2940300F75}" coords="(0,0,121,39)"/>
                 </link>
               </links>
-              <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>Close%0A</text>
               <textColor>4294967295</textColor>
               <textSize>18</textSize>
@@ -425,7 +425,7 @@
   <param>
     <backgroundColor>4281571839</backgroundColor>
     <fontSize>14</fontSize>
-    <fontFamily>.AppleSystemUIFont</fontFamily>
+    <fontFamily>Arial</fontFamily>
     <guideLines/>
   </param>
 </mockup>

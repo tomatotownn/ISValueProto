@@ -1,7 +1,7 @@
-﻿<mockup version="5.3" minAllowVersion="5.3" ID="78235A7A-0EB2-EB11-85F3-1E2940300F75" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="57E6D39F-5DE0-4472-A92C-861F2960E52C" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
   <controls controlCount="4">
     <control controlID="80865299-0EB2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="118" y="68" w="141" h="38" zOrder="0">
-      <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Welcome+to</text>
       <textColor>4294967295</textColor>
       <textSize>28</textSize>
@@ -17,7 +17,7 @@
           <area shape="0" alt="" ID="{5CDD1718-10B2-EB11-85F3-1E2940300F75}" coords="(0,0,308,61)"/>
         </link>
       </links>
-      <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Login</text>
       <textColor>4281571839</textColor>
       <textSize>24</textSize>
@@ -37,7 +37,7 @@
           <area shape="0" alt="" ID="{06BE4A96-1AB2-EB11-85F3-1E2940300F75}" coords="(0,0,308,61)"/>
         </link>
       </links>
-      <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Register</text>
       <textColor>4281571839</textColor>
       <textSize>24</textSize>
@@ -49,7 +49,7 @@
   <param>
     <backgroundColor>4281571839</backgroundColor>
     <fontSize>14</fontSize>
-    <fontFamily>.AppleSystemUIFont</fontFamily>
+    <fontFamily>Arial</fontFamily>
     <guideLines/>
   </param>
 </mockup>

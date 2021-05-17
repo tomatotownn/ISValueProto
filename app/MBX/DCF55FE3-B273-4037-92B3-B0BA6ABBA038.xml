@@ -1,11 +1,11 @@
-﻿<mockup version="5.3" minAllowVersion="5.3" ID="4C27E08C-17A7-EB11-8624-1E2940300F75" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="DCF55FE3-B273-4037-92B3-B0BA6ABBA038" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
   <controls controlCount="166">
     <control controlID="C44E2990-17A7-EB11-8624-1E2940300F75" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
       <color>4294967295</color>
     </control>
     <control controlID="028599A5-DCAB-EB11-8218-1E2940300F75" controlTypeID="Shape" x="0" y="20" w="375" h="82" zOrder="1">
       <borderVisible>False</borderVisible>
-      <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <textSize>20</textSize>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
@@ -36,7 +36,7 @@
           </events>
         </entry>
       </interactiveData>
-      <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>-+Timetable+-</text>
       <textColor>4294111986</textColor>
       <textSize>24</textSize>
@@ -47,7 +47,7 @@
     </control>
     <control controlID="42B3547B-DDAB-EB11-8218-1E2940300F75" controlTypeID="Shape" x="10" y="112" w="355" h="511" zOrder="3">
       <borderVisible>False</borderVisible>
-      <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <textSize>14</textSize>
       <selectedIndex>-1</selectedIndex>
       <radius>24</radius>
@@ -57,7 +57,7 @@
         <control controlID="BBFBC123-565D-47F3-A7F4-BCCE429A0DDD" controlTypeID="Shape" x="0" y="0" w="329" h="131" zOrder="0">
           <color>4294111986</color>
           <borderVisible>False</borderVisible>
-          <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textSize>14</textSize>
           <selectedIndex>-1</selectedIndex>
           <radius>12</radius>
@@ -66,21 +66,21 @@
           <groupChildrenDescriptors>
             <control controlID="1331F214-127F-4DCF-862A-F8BBA1F1C2D4" controlTypeID="__group__" x="0" y="0" w="210" h="19" zOrder="0">
               <groupChildrenDescriptors>
-                <control controlID="6472096B-9455-44C4-808F-36A58F759470" controlTypeID="Label" x="0" y="0" w="100" h="19" zOrder="0">
-                  <font family="" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="6472096B-9455-44C4-808F-36A58F759470" controlTypeID="Label" x="0" y="1" w="103" h="17" zOrder="0">
+                  <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
                   <text>Brittney+Spears</text>
                   <lineSpacing>0</lineSpacing>
                   <textStyles>[fsBold]</textStyles>
                   <selectedIndex>-1</selectedIndex>
                 </control>
-                <control controlID="720A51D6-89C4-46CB-81F5-FEDB282F028E" controlTypeID="Label" x="104" y="0" w="56" h="19" zOrder="1">
-                  <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="720A51D6-89C4-46CB-81F5-FEDB282F028E" controlTypeID="Label" x="106" y="0" w="56" h="19" zOrder="1">
+                  <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
                   <text>posted+to</text>
                   <lineSpacing>0</lineSpacing>
                   <selectedIndex>-1</selectedIndex>
                 </control>
-                <control controlID="3A05E1CF-5718-4709-B8AE-3DC090A0B0DA" controlTypeID="Label" x="163" y="0" w="47" h="19" zOrder="2">
-                  <font family="" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="3A05E1CF-5718-4709-B8AE-3DC090A0B0DA" controlTypeID="Label" x="163" y="1" w="47" h="17" zOrder="2">
+                  <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
                   <text>12MSA</text>
                   <lineSpacing>0</lineSpacing>
                   <textStyles>[fsBold]</textStyles>
@@ -89,14 +89,14 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="ACA60304-3C9A-46D5-B4A0-39424BF46528" controlTypeID="Label" x="0" y="17" w="45" h="19" zOrder="1">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Student</text>
               <textColor>4286151033</textColor>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="0B33F9ED-3DE5-41C5-A505-6A810F7B0B31" controlTypeID="Label" x="0" y="34" w="141" h="19" zOrder="2">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>8th+April%2C+2021+-+2.02pm</text>
               <textColor>4286151033</textColor>
               <lineSpacing>0</lineSpacing>
@@ -106,7 +106,7 @@
         </control>
         <control controlID="0D087266-C65E-4493-8CC1-E6510012B3FB" controlTypeID="Line" x="12" y="70" w="298" h="1" zOrder="2">
           <color>4288782753</color>
-          <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textColor>4286874756</textColor>
           <textSize>14</textSize>
           <lineSpacing>0</lineSpacing>
@@ -116,13 +116,13 @@
           <endPoint>(298,0)</endPoint>
         </control>
         <control controlID="9E12A7A3-0AE5-47F4-A7E0-AB4B12FF0840" controlTypeID="Label" x="12" y="81" w="308" h="19" zOrder="3">
-          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
           <text>Does+anyone+have+last+lesson's+notes%3F!+I+was+sick+and</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
         </control>
         <control controlID="EC85858C-C76B-4593-BEB9-7EDC262D86BA" controlTypeID="Label" x="12" y="99" w="142" h="19" zOrder="4">
-          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
           <text>need+to+catch+up...+plz+%3A%2F</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
@@ -136,7 +136,7 @@
             <control controlID="25C21C0A-3583-43EB-B4DA-C4995AD5DA0F" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="1">
               <color>16777215</color>
               <borderColor>4282598211</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <shapeBorderType>SbEllipse</shapeBorderType>
@@ -148,7 +148,7 @@
     </control>
     <control controlID="C2FAE090-DDAB-EB11-8218-1E2940300F75" controlTypeID="Shape" x="0" y="600" w="375" h="67" zOrder="5">
       <borderVisible>False</borderVisible>
-      <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <textSize>14</textSize>
       <selectedIndex>-1</selectedIndex>
     </control>
@@ -168,7 +168,7 @@
     <control controlID="CC30604D-FCB1-EB11-85F3-1E2940300F75" controlTypeID="Shape" x="157" y="605" w="60" h="60" zOrder="7">
       <color>4292077306</color>
       <borderVisible>False</borderVisible>
-      <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <textSize>14</textSize>
       <selectedIndex>-1</selectedIndex>
       <radius>12</radius>
@@ -293,7 +293,7 @@
         <control controlID="ACA0F47A-21B2-EB11-85F3-1E2940300F75" controlTypeID="Shape" x="0" y="0" w="329" h="179" zOrder="0">
           <color>4294111986</color>
           <borderVisible>False</borderVisible>
-          <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textSize>14</textSize>
           <selectedIndex>-1</selectedIndex>
           <radius>12</radius>
@@ -302,21 +302,21 @@
           <groupChildrenDescriptors>
             <control controlID="6AAFEF97-23B2-EB11-85F3-1E2940300F75" controlTypeID="__group__" x="0" y="0" w="180" h="18" zOrder="0">
               <groupChildrenDescriptors>
-                <control controlID="48C36D15-22B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="0" y="0" w="72" h="19" zOrder="0">
-                  <font family="" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="48C36D15-22B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="0" y="1" w="71" h="17" zOrder="0">
+                  <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
                   <text>Amara+Atif</text>
                   <lineSpacing>0</lineSpacing>
                   <textStyles>[fsBold]</textStyles>
                   <selectedIndex>-1</selectedIndex>
                 </control>
                 <control controlID="2042F52C-22B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="0" w="56" h="19" zOrder="1">
-                  <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
                   <text>posted+to</text>
                   <lineSpacing>0</lineSpacing>
                   <selectedIndex>-1</selectedIndex>
                 </control>
-                <control controlID="32BB9B3C-22B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="134" y="0" w="46" h="19" zOrder="2">
-                  <font family="" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="32BB9B3C-22B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="134" y="1" w="46" h="17" zOrder="2">
+                  <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
                   <text>12ICT3</text>
                   <lineSpacing>0</lineSpacing>
                   <textStyles>[fsBold]</textStyles>
@@ -325,14 +325,14 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="002AE9B5-23B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="0" y="17" w="44" h="19" zOrder="1">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Teacher</text>
               <textColor>4286151033</textColor>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="989A3AC0-23B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="0" y="34" w="140" h="19" zOrder="2">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>9th+April%2C+2021+-+8.43am</text>
               <textColor>4286151033</textColor>
               <lineSpacing>0</lineSpacing>
@@ -342,7 +342,7 @@
         </control>
         <control controlID="0A229CF6-23B2-EB11-85F3-1E2940300F75" controlTypeID="Line" x="12" y="70" w="298" h="1" zOrder="2">
           <color>4288782753</color>
-          <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textColor>4286874756</textColor>
           <textSize>14</textSize>
           <lineSpacing>0</lineSpacing>
@@ -352,13 +352,13 @@
           <endPoint>(298,0)</endPoint>
         </control>
         <control controlID="2236D617-24B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="12" y="81" w="278" h="19" zOrder="3">
-          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
           <text>Here+is+a+useful+worksheet+to+help+you+with+this+</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
         </control>
         <control controlID="F645CD37-24B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="12" y="99" w="130" h="19" zOrder="4">
-          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
           <text>semester's+assignment</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
@@ -367,7 +367,7 @@
           <groupChildrenDescriptors>
             <control controlID="A6EEDF7B-24B2-EB11-85F3-1E2940300F75" controlTypeID="Shape" x="0" y="0" w="241" h="36" zOrder="0">
               <borderVisible>False</borderVisible>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>12</radius>
@@ -382,7 +382,7 @@
               <URL>C9088EF66BA448C3E147A8F7F4861A2F.svg</URL>
             </control>
             <control controlID="D0462299-24B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="42" y="9" w="166" h="19" zOrder="2">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Assesment3_checklist_v2.pdf</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -398,7 +398,7 @@
             <control controlID="E03B1023-25B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="1">
               <color>16777215</color>
               <borderColor>4282598211</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <shapeBorderType>SbEllipse</shapeBorderType>
@@ -413,30 +413,30 @@
         <control controlID="77C2F97F-2BBC-4537-8347-7E97FBDBACC1" controlTypeID="Shape" x="0" y="0" w="329" h="133" zOrder="0">
           <color>4294111986</color>
           <borderVisible>False</borderVisible>
-          <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textSize>14</textSize>
           <selectedIndex>-1</selectedIndex>
           <radius>12</radius>
         </control>
-        <control controlID="4B2EF5C0-36A5-4C72-9707-E13F1558A06D" controlTypeID="__group__" x="64" y="11" w="223" h="54" zOrder="1">
+        <control controlID="4B2EF5C0-36A5-4C72-9707-E13F1558A06D" controlTypeID="__group__" x="64" y="10" w="232" h="55" zOrder="1">
           <groupChildrenDescriptors>
-            <control controlID="0E855068-A347-4153-8A92-C3C5EFB0EEAB" controlTypeID="__group__" x="0" y="0" w="223" h="20" zOrder="0">
+            <control controlID="0E855068-A347-4153-8A92-C3C5EFB0EEAB" controlTypeID="__group__" x="0" y="0" w="232" h="20" zOrder="0">
               <groupChildrenDescriptors>
-                <control controlID="A0A83283-4C19-46EC-B0F8-E8B2411EE84B" controlTypeID="Label" x="0" y="1" w="109" h="19" zOrder="0">
-                  <font family="" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="A0A83283-4C19-46EC-B0F8-E8B2411EE84B" controlTypeID="Label" x="0" y="3" w="115" h="17" zOrder="0">
+                  <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
                   <text>Joseph+Tsundere</text>
                   <lineSpacing>0</lineSpacing>
                   <textStyles>[fsBold]</textStyles>
                   <selectedIndex>-1</selectedIndex>
                 </control>
-                <control controlID="C7F57167-9F5A-4A97-8562-B87D277F9C7B" controlTypeID="Label" x="112" y="0" w="56" h="19" zOrder="1">
-                  <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="C7F57167-9F5A-4A97-8562-B87D277F9C7B" controlTypeID="Label" x="119" y="0" w="56" h="19" zOrder="1">
+                  <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
                   <text>posted+to</text>
                   <lineSpacing>0</lineSpacing>
                   <selectedIndex>-1</selectedIndex>
                 </control>
-                <control controlID="163A6A3F-7329-4D4E-81B1-60E2B3A8AD3B" controlTypeID="Label" x="170" y="0" w="53" h="19" zOrder="2">
-                  <font family="" displayName="Helvetica+Bold" postScript="Helvetica-Bold" weightStyle="" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+                <control controlID="163A6A3F-7329-4D4E-81B1-60E2B3A8AD3B" controlTypeID="Label" x="178" y="2" w="54" h="17" zOrder="2">
+                  <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
                   <text>12ENG1</text>
                   <lineSpacing>0</lineSpacing>
                   <textStyles>[fsBold]</textStyles>
@@ -444,15 +444,15 @@
                 </control>
               </groupChildrenDescriptors>
             </control>
-            <control controlID="40DFCCD3-56D7-4EE5-9DEA-1FF4B3367B71" controlTypeID="Label" x="0" y="18" w="44" h="19" zOrder="1">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="40DFCCD3-56D7-4EE5-9DEA-1FF4B3367B71" controlTypeID="Label" x="0" y="19" w="44" h="19" zOrder="1">
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Teacher</text>
               <textColor>4286151033</textColor>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="B15184F6-F9FD-400F-8B91-67F44BCBE21A" controlTypeID="Label" x="0" y="35" w="141" h="19" zOrder="2">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+            <control controlID="B15184F6-F9FD-400F-8B91-67F44BCBE21A" controlTypeID="Label" x="0" y="36" w="141" h="19" zOrder="2">
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>8th+April%2C+2021+-+2.23pm</text>
               <textColor>4286151033</textColor>
               <lineSpacing>0</lineSpacing>
@@ -462,7 +462,7 @@
         </control>
         <control controlID="370F460F-61A6-4DB4-BDD1-9C2AF1BB9FF1" controlTypeID="Line" x="9" y="72" w="298" h="1" zOrder="2">
           <color>4288782753</color>
-          <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textColor>4286874756</textColor>
           <textSize>14</textSize>
           <lineSpacing>0</lineSpacing>
@@ -472,13 +472,13 @@
           <endPoint>(298,0)</endPoint>
         </control>
         <control controlID="4251B35C-9924-445C-8D13-B51FBE69D202" controlTypeID="Label" x="9" y="83" w="253" h="19" zOrder="3">
-          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
           <text>Make+sure+your+assignment+is+submitted+by</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
         </control>
         <control controlID="68BB4A55-3A5E-4E16-BB46-E227AD498497" controlTypeID="Label" x="9" y="101" w="167" h="19" zOrder="4">
-          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
           <text>tomorrow+for+feedback+-+Joe</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
@@ -492,7 +492,7 @@
             <control controlID="ECFF4571-65AE-47BC-B964-EFE6468041A7" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="1">
               <color>16777215</color>
               <borderColor>4282598211</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <shapeBorderType>SbEllipse</shapeBorderType>
@@ -505,7 +505,7 @@
     <control controlID="DBAE53F7-28C8-4BCD-85EE-9A728EA1EC39" controlTypeID="Shape" x="10" y="588" w="355" h="12" zOrder="16">
       <color>4281571839</color>
       <borderVisible>False</borderVisible>
-      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <textSize>14</textSize>
       <selectedIndex>-1</selectedIndex>
     </control>
@@ -531,7 +531,7 @@
           <alias>content</alias>
           <groupChildrenDescriptors>
             <control controlID="D2A8357E-91AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="98" y="18" w="72" h="32" zOrder="0">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Classes</text>
               <textColor>4294967295</textColor>
               <textSize>24</textSize>
@@ -541,7 +541,7 @@
             </control>
             <control controlID="26EC97B6-91AC-EB11-A5A8-1E2940300F75" controlTypeID="Line" x="20" y="58" w="239" h="2" zOrder="1">
               <color>4294967295</color>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textColor>4294967295</textColor>
               <textSize>14</textSize>
               <lineSpacing>0</lineSpacing>
@@ -553,7 +553,7 @@
             <control controlID="94047692-92AC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="71" w="249" h="62" zOrder="2">
               <color>4294111986</color>
               <borderColor>4288217343</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
@@ -569,13 +569,13 @@
               <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
             </control>
             <control controlID="5A9B1C36-96AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="26" y="82" w="183" h="19" zOrder="4">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12MSA%3A+Mathematics+Advanced</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="BA4B2063-96AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="26" y="104" w="71" h="19" zOrder="5">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Room+2.E.12</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -583,7 +583,7 @@
             <control controlID="9EB4FD64-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="138" w="249" h="62" zOrder="6">
               <color>4294111986</color>
               <borderColor>4294901811</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
@@ -599,13 +599,13 @@
               <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
             </control>
             <control controlID="7EB6FD64-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="24" y="149" w="168" h="19" zOrder="8">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12ENG2%3A+Engineering+Studies</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="32B7FD64-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="24" y="171" w="68" h="19" zOrder="9">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Room+3.D.4</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -613,7 +613,7 @@
             <control controlID="36A7A771-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="205" w="249" h="62" zOrder="10">
               <color>4294111986</color>
               <borderColor>4278203391</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
@@ -629,13 +629,13 @@
               <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
             </control>
             <control controlID="16A9A771-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="24" y="216" w="145" h="19" zOrder="12">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12BUS6%3A+Business+Studies</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="C0A9A771-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="24" y="238" w="68" h="19" zOrder="13">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Room+4.A.2</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -643,7 +643,7 @@
             <control controlID="1A11CF74-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="272" w="249" h="62" zOrder="14">
               <color>4294111986</color>
               <borderColor>4278242355</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
@@ -659,20 +659,20 @@
               <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
             </control>
             <control controlID="7C13CF74-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="24" y="283" w="183" h="19" zOrder="16">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12ICT3%3A+Information+Technology</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="4E14CF74-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="24" y="305" w="69" h="19" zOrder="17">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Room+1.E.15</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="5CDA23E2-97AC-EB11-A5A8-1E2940300F75" controlTypeID="Line" x="21" y="386" w="239" h="2" zOrder="18">
               <color>4294967295</color>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textColor>4294967295</textColor>
               <textSize>14</textSize>
               <lineSpacing>0</lineSpacing>
@@ -682,7 +682,7 @@
               <endPoint>(239,1)</endPoint>
             </control>
             <control controlID="E656AC02-98AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="80" y="345" w="116" h="32" zOrder="19">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Information</text>
               <textColor>4294967295</textColor>
               <textSize>24</textSize>
@@ -693,14 +693,14 @@
             <control controlID="2212E310-98AC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="398" w="249" h="37" zOrder="20">
               <color>4294111986</color>
               <borderColor>4283801836</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
               <thickness>2</thickness>
             </control>
             <control controlID="0EAAD83C-98AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="60" y="407" w="119" h="19" zOrder="21">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Helpline+Information</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -717,14 +717,14 @@
             <control controlID="FE6E969A-9AAC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="486" w="249" h="37" zOrder="23">
               <color>4294111986</color>
               <borderColor>4283801836</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
               <thickness>2</thickness>
             </control>
             <control controlID="8470969A-9AAC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="60" y="495" w="46" h="19" zOrder="24">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Settings</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -741,14 +741,14 @@
             <control controlID="8E6E46CF-9EAC-EB11-A5A8-1E2940300F75" controlTypeID="Shape" x="16" y="442" w="249" h="37" zOrder="26">
               <color>4294111986</color>
               <borderColor>4283801836</borderColor>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
               <radius>8</radius>
               <thickness>2</thickness>
             </control>
             <control controlID="F66F46CF-9EAC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="60" y="451" w="137" h="19" zOrder="27">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Application+Information</text>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -793,7 +793,7 @@
           <alias>content</alias>
           <groupChildrenDescriptors>
             <control controlID="364642EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="116" y="3" w="135" h="27" zOrder="0">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Tuesday+27%2F4%2F21</text>
               <textSize>20</textSize>
               <lineSpacing>0</lineSpacing>
@@ -820,7 +820,7 @@
             </control>
             <control controlID="CA4842EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Line" x="72" y="40" w="239" h="1" zOrder="3">
               <color>4289638062</color>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
@@ -831,7 +831,7 @@
             <control controlID="744942EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Button" x="102" y="54" w="265" h="39" zOrder="4">
               <color>4286363377</color>
               <borderVisible>False</borderVisible>
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12BUS6%3A+Business+Studies</text>
               <textColor>4294111986</textColor>
               <textSize>16</textSize>
@@ -840,7 +840,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="1E4A42EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="12" y="62" w="78" h="22" zOrder="5">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>8.30am+++++-</text>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
@@ -850,7 +850,7 @@
             <control controlID="BE4A42EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Button" x="102" y="100" w="265" h="39" zOrder="6">
               <color>4286363377</color>
               <borderVisible>False</borderVisible>
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12ENG2%3A+Engineering+Studies</text>
               <textColor>4294111986</textColor>
               <textSize>16</textSize>
@@ -859,7 +859,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="5E4B42EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="10" y="109" w="76" h="22" zOrder="7">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12.00pm+++-</text>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
@@ -869,7 +869,7 @@
             <control controlID="084C42EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Button" x="102" y="146" w="265" h="39" zOrder="8">
               <color>4286363377</color>
               <borderVisible>False</borderVisible>
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>12MSA%3A+Mathematics+Advanced</text>
               <textColor>4294111986</textColor>
               <textSize>16</textSize>
@@ -878,7 +878,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="AC4D42EF-94AC-EB11-A5A8-1E2940300F75" controlTypeID="Label" x="13" y="154" w="72" h="22" zOrder="9">
-              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica+Light" postScript="Helvetica-Light" weightStyle="Regular" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>3.15pm++++-</text>
               <textSize>16</textSize>
               <lineSpacing>0</lineSpacing>
@@ -918,7 +918,7 @@
           <groupChildrenDescriptors>
             <control controlID="36B1B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Line" x="20" y="16" w="219" h="2" zOrder="0">
               <color>4294967295</color>
-              <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textColor>4294967295</textColor>
               <textSize>14</textSize>
               <lineSpacing>0</lineSpacing>
@@ -932,7 +932,7 @@
                 <control controlID="B8B1B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -945,7 +945,7 @@
                 <control controlID="44B2B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4278242355</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -954,7 +954,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="8AB2B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="36" w="116" h="24" zOrder="2">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Tony+Montanna</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -962,7 +962,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="C6B2B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="60" w="139" h="16" zOrder="3">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Listening+to%3A+Shots+-+LMFAO</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -975,7 +975,7 @@
                 <control controlID="48B3B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -988,7 +988,7 @@
                 <control controlID="D4B3B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4278242355</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -997,7 +997,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="10B4B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="98" w="114" h="24" zOrder="5">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Jasunn+Dulsilba</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1005,7 +1005,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="4CB4B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="122" w="113" h="16" zOrder="6">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Inside+%7C+12MSA+%7C+lesson</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1018,7 +1018,7 @@
                 <control controlID="CEB4B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1031,7 +1031,7 @@
                 <control controlID="50B5B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4278242355</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1040,7 +1040,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="8CB5B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="160" w="98" h="24" zOrder="8">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Tate+Fairhurst</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1048,7 +1048,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="A4B6B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="184" w="112" h="16" zOrder="9">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Inside+%7C+12ENG+%7C+lesson</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1061,7 +1061,7 @@
                 <control controlID="26B7B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1074,7 +1074,7 @@
                 <control controlID="A8B7B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4294901760</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1083,7 +1083,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="E4B7B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="222" w="103" h="24" zOrder="11">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Bri-anne+Lake</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1091,7 +1091,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="34B8B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="246" w="60" h="16" zOrder="12">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Studying+%3B(((</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1104,7 +1104,7 @@
                 <control controlID="C0B8B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1117,7 +1117,7 @@
                 <control controlID="42B9B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4278242355</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1126,7 +1126,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="7EB9B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="284" w="106" h="24" zOrder="14">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Adam+Sandler</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1134,7 +1134,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="BAB9B606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="308" w="109" h="16" zOrder="15">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Inside+%7C+11DRA+%7C+lesson</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1147,7 +1147,7 @@
                 <control controlID="3CBAB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1160,7 +1160,7 @@
                 <control controlID="BEBAB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4294953984</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1169,7 +1169,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="FABAB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="347" w="102" h="24" zOrder="17">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Chia+Fairhurst</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1177,7 +1177,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="40BBB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="371" w="52" h="16" zOrder="18">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Sleeping+%3A)</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1190,7 +1190,7 @@
                 <control controlID="B8BBB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1203,7 +1203,7 @@
                 <control controlID="44BCB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4278242355</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1212,7 +1212,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="8ABCB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="74" y="410" w="94" h="24" zOrder="20">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Aisha+Waqar</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1220,7 +1220,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="C6BCB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="75" y="434" w="109" h="16" zOrder="21">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>bored+at+the+arcade+%3A%2F</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1233,7 +1233,7 @@
                 <control controlID="48BDB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="0" y="0" w="53" h="53" zOrder="0">
                   <color>16777215</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1246,7 +1246,7 @@
                 <control controlID="CABDB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Circle" x="34" y="34" w="18" h="18" zOrder="2">
                   <color>4278242355</color>
                   <borderColor>4282598211</borderColor>
-                  <font family="" displayName=".AppleSystemUIFont" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
                   <textSize>14</textSize>
                   <selectedIndex>-1</selectedIndex>
                   <shapeBorderType>SbEllipse</shapeBorderType>
@@ -1255,7 +1255,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="06BEB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="77" y="473" w="103" h="24" zOrder="23">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Heath+Ledger</text>
               <textSize>18</textSize>
               <lineSpacing>0</lineSpacing>
@@ -1263,7 +1263,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
             <control controlID="42BEB606-07B2-EB11-85F3-1E2940300F75" controlTypeID="Label" x="78" y="497" w="105" h="16" zOrder="24">
-              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <font family="" displayName="Helvetica" postScript="Helvetica" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
               <text>Inside+%7C+12SCI+%7C+lesson</text>
               <textColor>4283519313</textColor>
               <textSize>12</textSize>
@@ -1284,7 +1284,7 @@
   <param>
     <backgroundColor>4281571839</backgroundColor>
     <fontSize>14</fontSize>
-    <fontFamily>.AppleSystemUIFont</fontFamily>
+    <fontFamily>Arial</fontFamily>
     <guideLines/>
   </param>
 </mockup>
